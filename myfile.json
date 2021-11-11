@@ -1,0 +1,11 @@
+{
+ "access_token":"ZDI3MGEyYzQtNmFlNS00NDNhLWFlNzAtZGVjNjE0MGU1OGZmZWNmZDEwN2ItYTU3",
+ "expires_in":1209600,
+ "router": "Router ISP",
+ "ip" : "192.168.1.1",
+ "netmask": "255.255.255.0",
+ "interfaces s0/0/0" : "209.165.200.224/30",
+ "servidor DNS IPV4": "8.8.8.8",
+ "refresh_token":"MDEyMzQ1Njc4OTAxMjM0NTY3ODkwMTIzNDU2Nzg5MDEyMzQ1Njc4OTEyMzQ1Njc4",
+ "refreshtokenexpires_in":7776000
+}
